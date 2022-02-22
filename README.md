@@ -16,6 +16,7 @@
 新鲜：![新鲜](https://ai-studio-static-online.cdn.bcebos.com/1af15d5ec7ab43ebb31144ab7630864786a87e80335342e8a20b430b051ab31c)  
 过期：![过期](https://ai-studio-static-online.cdn.bcebos.com/1c78609634e747d28f0e290db370ad543f046ad433904fb5aa587ac9cde3f4b1)  
 ## 三、模型介绍
+> References: [PaddlePaddle教程 - 零基础实践深度学习/第三章：计算机视觉（下）/ResNet](https://www.paddlepaddle.org.cn/tutorials/projectdetail/3106582)；[API文档 - paddle.optimizer/Momentum](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/paddle/optimizer/Momentum_cn.html)
 ### ResNet残差网络
 **ResNet**是2015年ImageNet比赛的冠军，将识别错误率降低到了3.6%，这个结果甚至超出了正常人眼识别的精度。
 为了解决经典神经网络层数增加后，训练误差不减反增的问题，Kaiming He等人提出了残差网络ResNet。其基本思想如下图所示：  
