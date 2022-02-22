@@ -12,6 +12,7 @@
 - 数据集下载地址：[https://aistudio.baidu.com/aistudio/datasetdetail/84831](https://aistudio.baidu.com/aistudio/datasetdetail/84831)
 - 图片数量：新鲜/过期两类各948张，共计1896张
 - 图片分辨率：1280x720像素
+
 新鲜：![新鲜](https://ai-studio-static-online.cdn.bcebos.com/1af15d5ec7ab43ebb31144ab7630864786a87e80335342e8a20b430b051ab31c)  
 过期：![过期](https://ai-studio-static-online.cdn.bcebos.com/1c78609634e747d28f0e290db370ad543f046ad433904fb5aa587ac9cde3f4b1)  
 ## 三、模型介绍
