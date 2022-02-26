@@ -1,4 +1,4 @@
-# MeatQualityAssessment - 基于ResNet50的红肉新鲜度检测
+# 【AI达人创造营第二期】MeatQualityAssessment - 基于ResNet50的红肉新鲜度检测
 
 > Meat Quality Assessment based on PaddlePaddle-ResNet50.
 
